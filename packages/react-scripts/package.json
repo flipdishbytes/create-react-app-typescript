@@ -1,6 +1,6 @@
 {
   "name": "@flipdish/react-scripts-ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Configuration and scripts for Create React App.",
   "repository": "flipdishbytes/flipdish-create-react-app-typescript",
   "license": "BSD-3-Clause",
@@ -48,7 +48,6 @@
     "tsconfig-paths-webpack-plugin": "^2.0.0",
     "tslint": "^5.7.0",
     "tslint-react": "^3.2.0",
-    "typescript": "~2.5.3",
     "url-loader": "0.6.2",
     "webpack": "3.8.1",
     "webpack-dev-server": "2.9.4",
